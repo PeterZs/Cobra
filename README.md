@@ -92,14 +92,12 @@ We are grateful for the valuable resources and insights provided by these projec
 ### 📜 Citation
 
 ```
-@misc{zhuang2025cobraefficientlineart,
-      title={Cobra: Efficient Line Art COlorization with BRoAder References}, 
-      author={Junhao Zhuang and Lingen Li and Xuan Ju and Zhaoyang Zhang and Chun Yuan and Ying Shan},
-      year={2025},
-      eprint={2504.12240},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2504.12240}, 
+@inproceedings{zhuang2025cobra,
+  title={Cobra: Efficient line art colorization with broader references},
+  author={Zhuang, Junhao and Li, Lingen and Ju, Xuan and Zhang, Zhaoyang and Yuan, Chun and Shan, Ying},
+  booktitle={Proceedings of the Special Interest Group on Computer Graphics and Interactive Techniques Conference Conference Papers},
+  pages={1--11},
+  year={2025}
 }
 ```
 
